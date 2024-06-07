@@ -1,7 +1,6 @@
 ﻿using DevExpress.Drawing;
 using DevExpress.Maui;
 using DevExpress.Maui.Core;
-using DotNet.Meteor.HotReload.Plugin;
 using SkiaSharp.Views.Maui.Controls.Hosting;
 
 namespace MauiReportingApp;
@@ -14,7 +13,6 @@ public static class MauiProgram {
             .UseMauiApp<App>()
             .UseDevExpress(useLocalization: true)
             .UseSkiaSharp()
-            .EnableHotReload()
             .ConfigureFonts(fonts => {
                 fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                 fonts.AddFont("univia-pro-regular.ttf", "Univia-Pro");
