@@ -75,9 +75,9 @@ You can adjust this example to use any existing report. In this repository, the 
 
 * [PdfViewer](https://docs.devexpress.com/MAUI/DevExpress.Maui.Pdf.PdfViewer)
 * [.NET Reporting Tools for Web, Mobile, and Desktop](https://docs.devexpress.com/XtraReports/2162/reporting)
-* [Configure a Report in the Visual Studio Designer](https://docs.devexpress.com/MAUI/404892/reporting/create-report-vs-designer)
-* [Configure a Report in the Visual Studio Code Designer](https://docs.devexpress.com/MAUI/404930/reporting/create-report-in-vs-code-designer)
-* [Create a Report in Code](https://docs.devexpress.com/MAUI/404891/reporting/create-report-in-code)
+* [Configure a Report in the Visual Studio Designer](https://docs.devexpress.com/MAUI/404892/reporting/create-report-vs-designer?v=24.1)
+* [Configure a Report in the Visual Studio Code Designer](https://docs.devexpress.com/MAUI/404930/reporting/create-report-in-vs-code-designer?v=24.1)
+* [Create a Report in Code](https://docs.devexpress.com/MAUI/404891/reporting/create-report-in-code?v=24.1)
 
 ## More Examples
 
