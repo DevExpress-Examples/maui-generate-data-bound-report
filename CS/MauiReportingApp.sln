@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34310.174
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiReportingApp", "MauiReportingApp.csproj", "{490CCF12-274C-4303-9C2B-EDFB8BE0D7C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiReportingApp", "MauiReportingApp\MauiReportingApp.csproj", "{490CCF12-274C-4303-9C2B-EDFB8BE0D7C9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReportLibrary", "..\ReportLibrary\ReportLibrary.csproj", "{89510B52-F430-4DD5-A459-33CF2BBBEA22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReportLibrary", "ReportLibrary\ReportLibrary.csproj", "{89510B52-F430-4DD5-A459-33CF2BBBEA22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
