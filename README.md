@@ -7,7 +7,7 @@
 
 # DevExpress Reporting for .NET MAUI - Generate and Display a Data-Bound Report
 
-This example uses [DevExpress PDF Viewer for .NET MAUI](https://docs.devexpress.com/MAUI/404632/pdf-viewer/pdf-viewer) to display a data-bound report in a mobile app. 
+This example uses [DevExpress PDF Viewer for .NET MAUI](https://docs.devexpress.com/MAUI/404632/pdf-viewer/pdf-viewer) to display a data-bound report in a mobile app.
 
 You can adjust this example to use any existing report. In this repository, the **ReportLibrary** folder contains the data source and the report layout definition. We constructed the report with the help of the [DevExpress Report Designer](https://docs.devexpress.com/MAUI/404437/reporting/reporting-overview) and named the report class `XtraReportInstance`. The code below creates this object to generate a report document. 
 
