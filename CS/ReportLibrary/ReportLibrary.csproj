@@ -7,7 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="DevExpress.Reporting.Core" Version="24.2.*" />
+        <PackageReference Include="DevExpress.Reporting.Core" Version="24.2.3" />
     </ItemGroup>
 
 </Project>
