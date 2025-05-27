@@ -41,19 +41,19 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="DevExpress.Drawing.Skia" Version="24.2.3" />
-        <PackageReference Include="DevExpress.Maui.Pdf" Version="24.2.3" />
-        <PackageReference Include="DevExpress.Reporting.Core" Version="24.2.3" />
+        <PackageReference Include="DevExpress.Drawing.Skia" Version="24.2.*-*" />
+        <PackageReference Include="DevExpress.Maui.Pdf" Version="24.2.*-*" />
+        <PackageReference Include="DevExpress.Reporting.Core" Version="24.2.*-*" />
         <PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
         <PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="DevExpress.Data" Version="24.2.3" />
-        <PackageReference Include="DevExpress.Drawing" Version="24.2.3" />
-        <PackageReference Include="DevExpress.Pdf.Core" Version="24.2.3" />
-        <PackageReference Include="DevExpress.Pdf.Drawing" Version="24.2.3" />
+        <PackageReference Include="DevExpress.Data" Version="24.2.*-*" />
+        <PackageReference Include="DevExpress.Drawing" Version="24.2.*-*" />
+        <PackageReference Include="DevExpress.Pdf.Core" Version="24.2.*-*" />
+        <PackageReference Include="DevExpress.Pdf.Drawing" Version="24.2.*-*" />
         <ProjectReference Include="..\ReportLibrary\ReportLibrary.csproj" />
-        <TrimmableAssembly Include="DevExpress.Data.v24.2.3" />
+        <TrimmableAssembly Include="DevExpress.Data.v24.2" />
     </ItemGroup>
 </Project>
